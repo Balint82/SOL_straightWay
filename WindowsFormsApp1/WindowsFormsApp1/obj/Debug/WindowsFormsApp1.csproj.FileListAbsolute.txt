@@ -1,0 +1,314 @@
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddComponent.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListOfMissingComponents.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\kamik\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RaktarRend.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddComponent.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RaktarRend.resources
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\somog\OneDrive\Asztali gép\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Project.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddComponent.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Project.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RaktarRend.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddComponent.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Project.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RaktarRend.resources
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Felhasználó\Desktop\WindowsFormsApp1_0418\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hiany.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Project.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddProject.resources
+Y:\GIT\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProjectList.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddProject.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Displaytest.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Hiany.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ModifyPrices.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Project.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProjectCompList.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProjectList.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PartToProject.resources
+C:\Git_repos\Winform1\WinFormClient\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IncomingPart.resources
